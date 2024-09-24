@@ -1,15 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/67978032/171757505-6a2bf896-affd-415b-b060-bed1cdf1ce8f.png)
 
 ### Eu sou o Fernando Rodrigues ✌🏾
-Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar soluções criativas e eficientes. Estou sempre aprimorando minhas habilidades e em busca de novas oportunidades para aplicar meus conhecimentos e contribuir com projetos inovadores. Vamos nos conectar!
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-79133227/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandorf_dev/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fernandorodriguesfonseca4376)
-
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoRodrigues13&show_icons=true&theme=tokyonight)
-
+Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar soluções criativas e eficientes. Estou sempre aprimorando minhas habilidades e em busca de novas oportunidades para aplicar meus conhecimentos e contribuir com projetos inovadores. 
 
 ## Tecnologias que fazem parte do meu dia a dia:
 
@@ -22,5 +14,16 @@ Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar solu
 <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+### Conecte-se Comigo
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-79133227/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandorf_dev/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fernandorodriguesfonseca4376)
+
+![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoRodrigues13&show_icons=true&theme=tokyonight)
+
+
+
 
 #### <i>"Code, coffee, and creativity fuel my world ☕💻. Always exploring the latest in tech, turning ideas into reality one line at a time. 🚀 Let's build something awesome together!"
