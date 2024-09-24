@@ -9,7 +9,7 @@ Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar solu
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoRodrigues13&show_icons=true&theme=tokyonight)
 
 
-## Tecnologias que uso no meu dia:
+## Tecnologias que fazem parte do meu dia a dia, impulsionando meus projetos e aprendizado contínuo:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
