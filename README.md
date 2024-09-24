@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/67978032/171757505-6a2bf896-affd-415b-b060-bed1cdf1ce8f.png)
 
-### Olá! Eu sou o Fernando Rodrigues ✌🏾
+### Eu sou o Fernando Rodrigues ✌🏾
 Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar soluções criativas e eficientes. Estou sempre aprimorando minhas habilidades e em busca de novas oportunidades para aplicar meus conhecimentos e contribuir com projetos inovadores. Vamos nos conectar!
 
 
