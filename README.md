@@ -3,7 +3,7 @@
 ### Eu sou o Fernando Rodrigues ✌🏾
 Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar soluções criativas e eficientes. Estou sempre aprimorando minhas habilidades e em busca de novas oportunidades para aplicar meus conhecimentos e contribuir com projetos inovadores. 
 
-## Tecnologias que fazem parte do meu dia a dia:
+## Tecnologias que fazem parte do meu dia a dia:<br>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -13,7 +13,7 @@ Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar solu
 <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+</div><br>
 
 ### Conecte-se Comigo
 
