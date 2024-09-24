@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Fernando Rodrigues ✌🏾
-
-Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar soluções criativas e eficientes. Estou sempre aprimorando minhas habilidades e em busca de novas oportunidades para aplicar meus conhecimentos e contribuir com projetos inovadores. Vamos nos conectar
+Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar soluções criativas e eficientes. Estou sempre aprimorando minhas habilidades e em busca de novas oportunidades para aplicar meus conhecimentos e contribuir com projetos inovadores. Vamos nos conectar!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-79133227/)
