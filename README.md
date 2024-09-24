@@ -21,9 +21,5 @@ Atualmente, estou estudando desenvolvimento web e mobile, com foco em criar solu
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandorf_dev/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fernandorodriguesfonseca4376)
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoRodrigues13&show_icons=true&theme=tokyonight)
-
-
-
 
 #### <i>"Code, coffee, and creativity fuel my world ☕💻. Always exploring the latest in tech, turning ideas into reality one line at a time. 🚀 Let's build something awesome together!"
